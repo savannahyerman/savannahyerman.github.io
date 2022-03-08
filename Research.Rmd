@@ -1,0 +1,46 @@
+---
+output: 
+  html_document:
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center> <h1>**Research Overview**</h1> </center>
+
+I am a Ph.D. student in the Barclay Lab of Experimental Evolutionary Psychology (BLEEP). I study social psychology from an evolutionary perspective. My thesis focuses on the behavioural effects of blunting emotions with acetaminophen. 
+
+
+
+## Inferences in Memory and Metamemory
+
+How do we remember our past? Decades of research in experimental psychology has established that remembering does not involve a direct "replay" of past experiences. Rather, remembering is an active process that is guided by heuristics and inferences, similar to how a detective might piece together evidence to solve a crime. Following this analogy, we often assemble our memories of the past indirectly through inferences based on cues. Such cue-based inferences are involved not only in our experiences of remembering, but in the active monitoring and control of ongoing learning processes (metamemory). I am particularly interested in how such inferences inform the monitoring and control of self-directed learning. Below, I describe some of the ongoing research projects in my lab that address this broad issue.
+
+### Fluency and Metamemory
+
+Learning is an active process that is, to a large degree, under the control of the learner. Humans can choose what to learn, how to learn it, and when learning has reached a sufficient level. How do we make these decisions? What sources of information shape these judgments? A prominent idea is that these judgments are based, in part, on the *fluency* with which individuals process information. Fluency refers to the subjective ease with which people perceive, process, and interact with their environment. We are currently pursuing several lines of research that examine how and when fluency shapes the monitoring, evaluation and regulation of learning. For more information on this topic, please see the reference below:
+
+* Fiacconi, C.M, Mitton, E.E., Laursen, S.J., & Skinner, J. (2020). Isolating the contribution of perceptual fluency to judgments of learning (JOLs): evidence for reactivity in measuring the influence of fluency. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 46*, 926-944. [Link](https://doi.org/10.1037/xlm0000766)
+
+## Cognitive Control, Attention, & Memory
+
+Cognitive control refers to the set of mental processes that allow for purposeful, goal-directed behaviour. It affords flexible and adaptive responses to stimuli in our environment. The construct of cognitive control is tightly linked with attention, which itself is critical for memory encoding. We are currently exploring how foreknowledge of the need for control affects memory encoding, and how the implementation of control processes affects autonomic nervous system activity.
+
+### Autonomic Markers of Cognitive Control
+
+This line of research is grounded in the idea that our mind and body are fundamentally intertwined. That is, ongoing mental activity can alter bodily physiology, and changes in physiology can in turn shape our mental state. Ongoing lab research examines the link between cognitive control and the autonomic nervous system, with the goal of understanding the coupling between volitional control processes and patterns of autonomic activity (e.g., heart rate, heart rate variability). 
+
+This research is supported through funding from the National Science and Engineering Research Council (NSERC) of Canada.
+
+<center>
+
+![](/NSERC_RGB.png)
+
+</center>
+
+
+
+
+
