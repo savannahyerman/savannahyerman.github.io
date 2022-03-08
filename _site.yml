@@ -1,0 +1,14 @@
+name: "Savannah Yerman"
+navbar:
+  title: "Savannah Yerman"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: Research.html
+    - text: "Publications"
+      href: index.html
+    
+output:
+  html_document:
+output_dir: "."
